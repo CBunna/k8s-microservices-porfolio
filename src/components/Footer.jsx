@@ -6,13 +6,13 @@ const Footer = () => {
     <footer className="bg-gray-950 py-8">
       <div className="max-w-6xl mx-auto px-4 text-center">
         <div className="flex justify-center space-x-6 mb-4">
-          <a href="https://github.com/yourusername" className="text-gray-400 hover:text-blue-400 transition-colors">
+          <a href="https://github.com/CBunna" className="text-gray-400 hover:text-blue-400 transition-colors">
             <Github className="w-6 h-6" />
           </a>
-          <a href="https://linkedin.com/in/yourprofile" className="text-gray-400 hover:text-blue-400 transition-colors">
+          <a href="https://www.linkedin.com/in/bunna-chom/" className="text-gray-400 hover:text-blue-400 transition-colors">
             <Linkedin className="w-6 h-6" />
           </a>
-          <a href="mailto:your.email@example.com" className="text-gray-400 hover:text-blue-400 transition-colors">
+          <a href="mailto:your.bunnaq7@gmail.com" className="text-gray-400 hover:text-blue-400 transition-colors">
             <Mail className="w-6 h-6" />
           </a>
         </div>

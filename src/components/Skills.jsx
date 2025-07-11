@@ -7,7 +7,7 @@ const Skills = () => {
     {
       title: "Cloud Platforms",
       icon: <Cloud className="w-8 h-8" />,
-      skills: ["AWS (Learning)", "Azure (Basics)", "Google Cloud (Exploring)"],
+      skills: ["AWS (Learning)","Google Cloud (Exploring)"],
       color: "from-blue-500 to-cyan-500"
     },
     {

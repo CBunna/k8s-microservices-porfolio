@@ -17,11 +17,11 @@ const Contact = () => {
             <div className="bg-gray-800 rounded-lg p-6 border border-gray-700 hover:border-blue-500/50 transition-all duration-300 hover:scale-105">
               <Mail className="w-8 h-8 text-blue-400 mx-auto mb-4" />
               <h3 className="text-white font-semibold mb-2">Email</h3>
-              <p className="text-gray-400">your.email@example.com</p>
+              <p className="text-gray-400">bunnaq7@gmail.com</p>
             </div>
           </a>
           
-          <a href="https://linkedin.com/in/yourprofile" className="group">
+          <a href="https://www.linkedin.com/in/bunna-chom/" className="group">
             <div className="bg-gray-800 rounded-lg p-6 border border-gray-700 hover:border-blue-500/50 transition-all duration-300 hover:scale-105">
               <Linkedin className="w-8 h-8 text-blue-400 mx-auto mb-4" />
               <h3 className="text-white font-semibold mb-2">LinkedIn</h3>
@@ -29,7 +29,7 @@ const Contact = () => {
             </div>
           </a>
           
-          <a href="https://github.com/yourusername" className="group">
+          <a href="https://github.com/CBunna"  className="group">
             <div className="bg-gray-800 rounded-lg p-6 border border-gray-700 hover:border-blue-500/50 transition-all duration-300 hover:scale-105">
               <Github className="w-8 h-8 text-blue-400 mx-auto mb-4" />
               <h3 className="text-white font-semibold mb-2">GitHub</h3>

@@ -11,11 +11,11 @@ const Projects = () => {
       link: "https://github.com/CBunna/devops-portfolio"
     },
     {
-      title: "Infrastructure as Code (IaC) Project",
-      description: "Create reusable modules for different environments (dev/staging/prod)",
-      tech: ["Terraform", "Docker Compose", "NGINX"],
-      status: "Planning",
-      link: "#"
+      title: "kubernetes simple-web-application",
+      description: "Interactive todo application demonstrating Kubernetes fundamentals: Pods, Deployments, Services, and Namespaces.",
+      tech: ["HTML, CSS, JavaScript", "Docker", "NGINX","Kubernetes"],
+      status: "Completed",
+      link: "https://github.com/CBunna/kube-simple-web-application"
     },
     {
       title: "Infrastructure as Code",
